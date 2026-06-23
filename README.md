@@ -20,9 +20,5 @@ The system is built with a strong focus on cybersecurity frameworks and digital 
 
 ## App Screenshots
 
-<p align="center">
-  <img src= width="200" />
-  <img src="assets/screenshots/screenshot2.png" width="200" />
-</p>
 
 

@@ -21,7 +21,7 @@ The system is built with a strong focus on cybersecurity frameworks and digital 
 ## App Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/screenshot1.png" width="200" />
+  <img src=https://github.com/albatoulalotaibi/earth-app/commit/748f8a41f1e3fef6f2779378b2e0297fe02ddfab#diff-a885eaf8291a1cc1a1752c64fdad6be8e89ed66a390cc6b099723f783a60d831 width="200" />
   <img src="assets/screenshots/screenshot2.png" width="200" />
 </p>
 
